@@ -157,6 +157,6 @@ public class MainActivity extends AppCompatActivity {
                 "पवनतनय सङ्कट हरन मङ्गल मूरति रूप ।\n" +
                 "राम लखन सीता सहित हृदय बसहु सुर भूप ॥";
         tv.setText(para);
-        tv.setMovementMethod(new ScrollingMovementMethod());
+        //tv.setMovementMethod(new ScrollingMovementMethod());
     }
 }
