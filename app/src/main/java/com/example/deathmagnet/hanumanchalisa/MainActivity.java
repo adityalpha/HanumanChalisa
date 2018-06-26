@@ -1,11 +1,10 @@
 package com.example.deathmagnet.hanumanchalisa;
-//git test
+//test test
 import android.graphics.Color;
 import android.graphics.drawable.ColorDrawable;
 import android.support.v7.app.ActionBar;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.text.method.ScrollingMovementMethod;
 import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
