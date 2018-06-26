@@ -1,5 +1,5 @@
 package com.example.deathmagnet.hanumanchalisa;
-//test test
+//test
 import android.graphics.Color;
 import android.graphics.drawable.ColorDrawable;
 import android.support.v7.app.ActionBar;
